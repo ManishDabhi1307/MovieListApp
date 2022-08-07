@@ -1,0 +1,35 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        
+    ],
+    "homepage": "",
+    "id": 1009481,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Unleashed",
+    "overview": "A police officer who's best friends with a canine partner that can sniff out any crime. When Boomer dies on the job, the cop pledges no more pooch partners, until he is teamed with Zeus.",
+    "popularity": 0.0,
+    "poster_path": null,
+    "production_companies": [
+        
+    ],
+    "production_countries": [
+        
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Unleashed",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+}
